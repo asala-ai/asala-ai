@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate **Data Science and Artificial Intelligence student** at UCAS – University College of Applied Sciences.  
+I am a passionate **Data Science and Artificial Intelligence student**   
 
 I enjoy **Python programming, data analysis, and building intelligent solutions**. I have practical experience in **project management**, I’m skilled at **creative problem solving** and **innovative idea generation**, and I am **eager to learn new technologies and approaches**.  
 
