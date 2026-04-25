@@ -74,3 +74,7 @@ My goal is to become a **professional Data Scientist**, building **ethical AI sy
 <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"/>
 </a>
 
+<a href="https://www.linkedin.com/in/asalaa-abugarara-737418252">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/>
+</a>
+</p>
