@@ -2,18 +2,18 @@
 
 <p align="center">
 🎓 Data Science & AI Student | Python Developer <br>
-📍 Gaza, Palestine
+📍 Palestine
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a passionate **Data Science and Artificial Intelligence student**   
+I am a passionate **Data Science and Artificial Intelligence student** with a strong interest in building real-world intelligent systems.  
 
-I enjoy **Python programming, data analysis, and building intelligent solutions**. I have practical experience in **project management**, I’m skilled at **creative problem solving** and **innovative idea generation**, and I am **eager to learn new technologies and approaches**.  
+I enjoy working with **Python, data analysis, and machine learning**, and I have hands-on experience developing projects in **healthcare, image processing, and predictive modeling**.  
 
-I also focus on **ethical AI practices** to ensure technology is used safely and responsibly.
+I focus on writing clean code, solving complex problems, and continuously improving my technical and analytical skills. I am also deeply interested in **ethical AI**, ensuring that technology is used responsibly and fairly.
 
 ---
 
@@ -23,16 +23,17 @@ I also focus on **ethical AI practices** to ensure technology is used safely and
   *Core Python concepts, problem solving, and data structures.*
 
 - 🎖 **Machine Learning** – Kaggle  
-  *Hands-on ML projects and real-world datasets.*
+  *Hands-on ML projects using real-world datasets.*
 
 - 🎖 **Machine Learning** – Coursera  
-  *Fundamentals of ML, supervised & unsupervised learning.*
+  *Supervised & unsupervised learning, model evaluation.*
 
 - 🎖 **AI Ethics** – Kakao  
-  *Ethical AI, bias, fairness, and responsible AI.*
+  *Bias, fairness, and responsible AI development.*
 
 - 🎖 **ICDL** – Edraak  
   *Digital literacy and essential computer skills.*
+
 ---
 
 ## 🛠️ Skills & Strengths
@@ -46,34 +47,44 @@ I also focus on **ethical AI practices** to ensure technology is used safely and
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
 
-- Python & Data Analysis (Pandas, NumPy, Matplotlib)  
-- Jupyter Notebook & Git  
-- Project Management & Team Collaboration  
-- Creative Problem Solving & Innovative Thinking  
-- Quick Learner, Curious & Passionate About New Technologies  
+- **Programming:** Python (Algorithms, Clean Code, Problem Solving)  
+- **Data Analysis:** Pandas, NumPy, Data Cleaning & Visualization  
+- **Machine Learning:** Model Building, Training, Evaluation  
+- **Image Processing:** Noise Reduction, Image Sharpening, Blur Detection  
+- **Tools:** Jupyter Notebook, Git & GitHub, Google Colab, Linux  
+- **Concepts:** Data Preprocessing, Feature Selection, Model Optimization  
+- **Soft Skills:** Analytical Thinking, Team Collaboration, Continuous Learning  
 
 ---
 
 ## 📚 Currently Learning
 
 - Data Mining  
-- Machine Learning  
+- Advanced Machine Learning  
 - Linear Algebra for Data Science  
-- Image Processing and Computer Vision  
+- Computer Vision & Image Processing  
 
 ---
 
 ## 🚀 Projects
 
-🔹 **Image Blur Detection** – Detecting blurry images using Python and OpenCV  
-🔹 **Student Time Management App** – Organizing tasks and deadlines for students  
-🔹 **Python Practice Projects** – Exercises and small projects for improving programming skills  
+🔹 **HealthWise – CHD Risk Prediction System**  
+Fuzzy expert system for predicting coronary heart disease risk based on medical indicators  
+
+🔹 **Image Processing System**  
+Applying noise reduction and image sharpening techniques to enhance image quality  
+
+🔹 **House Price Prediction**  
+Machine learning model to predict housing prices using regression techniques  
+
+🔹 **Image Blur Detection**  
+Detecting blurry images using Python  
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to become a **professional Data Scientist**, building **ethical AI systems** and **innovative solutions** that help people and organizations make better decisions.
+My goal is to become a **professional Data Scientist**, specializing in **AI-driven solutions**, particularly in healthcare and real-world problem solving, while maintaining strong ethical standards in AI development.
 
 ---
 
