@@ -19,10 +19,20 @@ I also focus on **ethical AI practices** to ensure technology is used safely and
 
 ## 🏅 Certifications
 
-- 🎖 **Python Programming 1 & 2** – Comprehensive Python courses  
-- 🎖 **Introduction to Computer Usage** – Fundamental computer skills  
-- 🎖 **AI Ethics by Kakao** – Ethical considerations in AI  
+- 🎖 **Python Programming 1 & 2** – Cisco Networking Academy  
+  *Core Python concepts, problem solving, and data structures.*
 
+- 🎖 **Machine Learning** – Kaggle  
+  *Hands-on ML projects and real-world datasets.*
+
+- 🎖 **Machine Learning** – Coursera  
+  *Fundamentals of ML, supervised & unsupervised learning.*
+
+- 🎖 **AI Ethics** – Kakao  
+  *Ethical AI, bias, fairness, and responsible AI.*
+
+- 🎖 **ICDL** – Edraak  
+  *Digital literacy and essential computer skills.*
 ---
 
 ## 🛠️ Skills & Strengths
